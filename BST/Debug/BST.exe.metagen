@@ -1,0 +1,87 @@
+  BST.display.resources - Embedded, ContainedInManifestFile, 
+  BST.ui.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly BST, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class BST.display: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.RichTextBox T1 : Public
+    System.Windows.Forms.RichTextBox T3 : Public
+    System.Windows.Forms.RichTextBox T2 : Public
+    System.Windows.Forms.RichTextBox T6 : Public
+    System.Windows.Forms.RichTextBox T7 : Public
+    System.Windows.Forms.RichTextBox T4 : Public
+    System.Windows.Forms.RichTextBox T5 : Public
+    System.Windows.Forms.RichTextBox T24 : Public
+    System.Windows.Forms.RichTextBox T22 : Public
+    System.Windows.Forms.RichTextBox T21 : Public
+    System.Windows.Forms.RichTextBox T20 : Public
+    System.Windows.Forms.RichTextBox T19 : Public
+    System.Windows.Forms.RichTextBox T18 : Public
+    System.Windows.Forms.RichTextBox T17 : Public
+    System.Windows.Forms.RichTextBox T16 : Public
+    System.Windows.Forms.RichTextBox T15 : Public
+    System.Windows.Forms.RichTextBox T14 : Public
+    System.Windows.Forms.RichTextBox T13 : Public
+    System.Windows.Forms.RichTextBox T12 : Public
+    System.Windows.Forms.RichTextBox T11 : Public
+    System.Windows.Forms.RichTextBox T10 : Public
+    System.Windows.Forms.RichTextBox T9 : Public
+    System.Windows.Forms.RichTextBox T8 : Public
+    System.Windows.Forms.RichTextBox T23 : Public
+    System.Windows.Forms.RichTextBox T25 : Public
+    System.Windows.Forms.RichTextBox T26 : Public
+    System.Windows.Forms.RichTextBox T27 : Public
+    System.Windows.Forms.RichTextBox T28 : Public
+    System.Windows.Forms.RichTextBox T29 : Public
+    System.Windows.Forms.RichTextBox T30 : Public
+    System.Windows.Forms.RichTextBox T31 : Public
+Class BST.ui: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.RichTextBox T23 : Public
+    System.Windows.Forms.RichTextBox T25 : Public
+    System.Windows.Forms.RichTextBox T26 : Public
+    System.Windows.Forms.RichTextBox T27 : Public
+    System.Windows.Forms.RichTextBox T28 : Public
+    System.Windows.Forms.RichTextBox T29 : Public
+    System.Windows.Forms.RichTextBox T30 : Public
+    System.Windows.Forms.RichTextBox T31 : Public
+    System.Windows.Forms.RichTextBox T8 : Public
+    System.Windows.Forms.RichTextBox T9 : Public
+    System.Windows.Forms.RichTextBox T10 : Public
+    System.Windows.Forms.RichTextBox T11 : Public
+    System.Windows.Forms.RichTextBox T12 : Public
+    System.Windows.Forms.RichTextBox T13 : Public
+    System.Windows.Forms.RichTextBox T14 : Public
+    System.Windows.Forms.RichTextBox T15 : Public
+    System.Windows.Forms.RichTextBox T16 : Public
+    System.Windows.Forms.RichTextBox T17 : Public
+    System.Windows.Forms.RichTextBox T18 : Public
+    System.Windows.Forms.RichTextBox T19 : Public
+    System.Windows.Forms.RichTextBox T20 : Public
+    System.Windows.Forms.RichTextBox T21 : Public
+    System.Windows.Forms.RichTextBox T22 : Public
+    System.Windows.Forms.RichTextBox T24 : Public
+    System.Windows.Forms.RichTextBox T4 : Public
+    System.Windows.Forms.RichTextBox T5 : Public
+    System.Windows.Forms.RichTextBox T6 : Public
+    System.Windows.Forms.RichTextBox T7 : Public
+    System.Windows.Forms.RichTextBox T2 : Public
+    System.Windows.Forms.RichTextBox T3 : Public
+    System.Windows.Forms.RichTextBox T1 : Public
